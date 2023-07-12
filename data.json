@@ -1,0 +1,503 @@
+Array(346) [
+    Document {
+      pageContent: 
+        '<div id="__next"><div color="fg.default" font-family="normal" data-portal-root="true" class="BaseStyles__Base-sc-nfjs56-0 gOpCJ"><div class="Box-sc-g0xbh4-0 hvRymX"><div',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    }, Document {
+      pageContent: 
+        'hvRymX"><div id="header" class="Header-sc-1wu4agm-0 RSWZs"><div class="Header__HeaderItem-sc-1wu4agm-1 exHqlt"><a aria-label="Voltar para a página inicial"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'a página inicial" class="Header__HeaderLink-sc-1wu4agm-2 CYfUm" href="/"><svg stroke="currentColor" fill="none" stroke-width="0" viewBox="0 0 24 24" height="32" width="32"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'width="32" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M18.9999 4C20.6568 4 21.9999 5.34315 21.9999 7V17C21.9999 18.6569 20.6568 20',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        '18.6569 20.6568 20 18.9999 20H4.99994C3.34308 20 1.99994 18.6569 1.99994 17V7C1.99994 5.34315 3.34308 4 4.99994 4H18.9999ZM19.9999 9.62479H13C12.4478 9.62479 11.8442 9.20507',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        '11.8442 9.20507 11.652 8.68732L10.6542 6H4.99994C4.44765 6 3.99994 6.44772 3.99994 7V17C3.99994 17.5523 4.44765 18 4.99994 18H18.9999C19.5522 18 19.9999 17.5523 19.9999',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        '17.5523 19.9999 17V9.62479Z" fill="currentColor"></path></svg><div class="Box-sc-g0xbh4-0 hRzRJN">TabNews</div></a></div><div class="Header__HeaderItem-sc-1wu4agm-1',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'exHqlt"><a class="Header__HeaderLink-sc-1wu4agm-2 CYfUm" href="/">Relevantes</a></div><div class="Header__HeaderItem-sc-1wu4agm-1 bPqwjc"><a',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bPqwjc"><a class="Header__HeaderLink-sc-1wu4agm-2 CYfUm" href="/recentes">Recentes</a></div></div><div class="Box-sc-g0xbh4-0 kRPWSL"><div class="Box-sc-g0xbh4-0 gPNhmO"><div',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'gPNhmO"><div class="Box-sc-g0xbh4-0 flnDzZ"><span class="Text-sc-17v1xeu-0 jSXVr">1<!-- -->.</span></div><article class="Box-sc-g0xbh4-0 fXxQUH"><div class="Box-sc-g0xbh4-0',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'cMZbkX"><a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 bDEVqy" href="/RyanLevy/porque-o-tabnews-nao-tem-uma-barra-de-pesquisa">Porque o TabNews não tem uma',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'TabNews não tem uma barra de pesquisa?</a></div><div class="Box-sc-g0xbh4-0 blduoN"><span class="Text-sc-17v1xeu-0 bLDAWn">6 tabcoins</span> · <span class="Text-sc-17v1xeu-0',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bLDAWn">18 comentários</span> · <a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 gVcuCx" href="/RyanLevy">RyanLevy</a> · <span class="Text-sc-17v1xeu-0',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bLDAWn"><span role="tooltip" aria-label="domingo, 9 de julho de 2023 às 14:02 GMT+0" class="Tooltip__TooltipBase-sc-uha8qm-0 hsZHZO tooltipped-nw"><span',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'style="white-space:nowrap">1 dia atrás</span></span></span></div></article><div class="Box-sc-g0xbh4-0 flnDzZ"><span class="Text-sc-17v1xeu-0 jSXVr">2<!--',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'jSXVr">2<!-- -->.</span></div><article class="Box-sc-g0xbh4-0 fXxQUH"><div class="Box-sc-g0xbh4-0 cMZbkX"><a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 bDEVqy"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bDEVqy" href="/julianordg/usando-o-perplexity-para-realizar-pesquisas-no-tabnews">[DICA] 🔎 USANDO O PERPLEXITY PARA REALIZAR  PESQUISAS NO TABNEWS</a></div><div',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'class="Box-sc-g0xbh4-0 blduoN"><span class="Text-sc-17v1xeu-0 bLDAWn">4 tabcoins</span> · <span class="Text-sc-17v1xeu-0 bLDAWn">5 comentários</span> · <a sx="[object',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        '· <a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 gVcuCx" href="/julianordg">julianordg</a> · <span class="Text-sc-17v1xeu-0 bLDAWn"><span role="tooltip"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'role="tooltip" aria-label="segunda-feira, 10 de julho de 2023 às 12:42 GMT+0" class="Tooltip__TooltipBase-sc-uha8qm-0 hsZHZO tooltipped-nw"><span style="white-space:nowrap">8',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'horas atrás</span></span></span></div></article><div class="Box-sc-g0xbh4-0 flnDzZ"><span class="Text-sc-17v1xeu-0 jSXVr">3<!-- -->.</span></div><article',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'class="Box-sc-g0xbh4-0 fXxQUH"><div class="Box-sc-g0xbh4-0 cMZbkX"><a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 bDEVqy"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bDEVqy" href="/doretox/stop-lying-the-truth-about-software-engineering-video">STOP LYING, The truth about Software Engineering [vídeo]</a></div><div class="Box-sc-g0xbh4-0',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'blduoN"><span class="Text-sc-17v1xeu-0 bLDAWn">3 tabcoins</span> · <span class="Text-sc-17v1xeu-0 bLDAWn">2 comentários</span> · <a sx="[object Object]"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'Object]" class="Link__StyledLink-sc-14289xe-0 gVcuCx" href="/doretox">doretox</a> · <span class="Text-sc-17v1xeu-0 bLDAWn"><span role="tooltip" aria-label="segunda-feira, 10',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        '10 de julho de 2023 às 16:20 GMT+0" class="Tooltip__TooltipBase-sc-uha8qm-0 hsZHZO tooltipped-nw"><span style="white-space:nowrap">4 horas',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'horas atrás</span></span></span></div></article><div class="Box-sc-g0xbh4-0 flnDzZ"><span class="Text-sc-17v1xeu-0 jSXVr">4<!-- -->.</span></div><article',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'class="Box-sc-g0xbh4-0 fXxQUH"><div class="Box-sc-g0xbh4-0 cMZbkX"><a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 bDEVqy"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bDEVqy" href="/FilipeNevola/pitch-zcloud-cloud-com-suporte-em-portugues-rode-qualquer-tecnologia-15-bonus">[Pitch] zCloud - Cloud com suporte em Português - Rode qualquer',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        '- Rode qualquer tecnologia ($15 bonus)</a></div><div class="Box-sc-g0xbh4-0 blduoN"><span class="Text-sc-17v1xeu-0 bLDAWn">3 tabcoins</span> · <span class="Text-sc-17v1xeu-0',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bLDAWn">0 comentário</span> · <a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 gVcuCx" href="/FilipeNevola">FilipeNevola</a> · <span class="Text-sc-17v1xeu-0',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bLDAWn"><span role="tooltip" aria-label="segunda-feira, 10 de julho de 2023 às 19:55 GMT+0" class="Tooltip__TooltipBase-sc-uha8qm-0 hsZHZO tooltipped-nw"><span',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'style="white-space:nowrap">19 minutos atrás</span></span></span></div></article><div class="Box-sc-g0xbh4-0 flnDzZ"><span class="Text-sc-17v1xeu-0 jSXVr">5<!--',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'jSXVr">5<!-- -->.</span></div><article class="Box-sc-g0xbh4-0 fXxQUH"><div class="Box-sc-g0xbh4-0 cMZbkX"><a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 bDEVqy"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bDEVqy" href="/andredomingues/autenticacao-laravel-para-voce-desenvolvedor-laravel-qual-a-melhor-maneira-de-trabalhar-autenticacao-em-apis-rest">[AUTENTICAÇÃO LARAVEL] Para',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'LARAVEL] Para você desenvolvedor Laravel, qual a melhor maneira de trabalhar autenticação em APIs Rest?</a></div><div class="Box-sc-g0xbh4-0 blduoN"><span',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'blduoN"><span class="Text-sc-17v1xeu-0 bLDAWn">1 tabcoin</span> · <span class="Text-sc-17v1xeu-0 bLDAWn">2 comentários</span> · <a sx="[object Object]"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'Object]" class="Link__StyledLink-sc-14289xe-0 gVcuCx" href="/andredomingues">andredomingues</a> · <span class="Text-sc-17v1xeu-0 bLDAWn"><span role="tooltip"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'role="tooltip" aria-label="segunda-feira, 10 de julho de 2023 às 17:04 GMT+0" class="Tooltip__TooltipBase-sc-uha8qm-0 hsZHZO tooltipped-nw"><span style="white-space:nowrap">3',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'horas atrás</span></span></span></div></article><div class="Box-sc-g0xbh4-0 flnDzZ"><span class="Text-sc-17v1xeu-0 jSXVr">6<!-- -->.</span></div><article',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'class="Box-sc-g0xbh4-0 fXxQUH"><div class="Box-sc-g0xbh4-0 cMZbkX"><a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 bDEVqy"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bDEVqy" href="/marcuth/e-ai-bora-ganhar-uma-grana-com-projetos">E aí? Bora ganhar uma grana com projetos?!</a></div><div class="Box-sc-g0xbh4-0 blduoN"><span',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'blduoN"><span class="Text-sc-17v1xeu-0 bLDAWn">1 tabcoin</span> · <span class="Text-sc-17v1xeu-0 bLDAWn">1 comentário</span> · <a sx="[object Object]"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'Object]" class="Link__StyledLink-sc-14289xe-0 gVcuCx" href="/marcuth">marcuth</a> · <span class="Text-sc-17v1xeu-0 bLDAWn"><span role="tooltip" aria-label="segunda-feira, 10',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        '10 de julho de 2023 às 19:29 GMT+0" class="Tooltip__TooltipBase-sc-uha8qm-0 hsZHZO tooltipped-nw"><span style="white-space:nowrap">44 minutos',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'minutos atrás</span></span></span></div></article><div class="Box-sc-g0xbh4-0 flnDzZ"><span class="Text-sc-17v1xeu-0 jSXVr">7<!-- -->.</span></div><article',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'class="Box-sc-g0xbh4-0 fXxQUH"><div class="Box-sc-g0xbh4-0 cMZbkX"><a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 bDEVqy"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bDEVqy" href="/jess/como-criar-seus-proprios-snippets-no-vs-code">Como criar seus próprios snippets no VS Code</a></div><div class="Box-sc-g0xbh4-0 blduoN"><span',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'blduoN"><span class="Text-sc-17v1xeu-0 bLDAWn">1 tabcoin</span> · <span class="Text-sc-17v1xeu-0 bLDAWn">0 comentário</span> · <a sx="[object Object]"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'Object]" class="Link__StyledLink-sc-14289xe-0 gVcuCx" href="/jess">jess</a> · <span class="Text-sc-17v1xeu-0 bLDAWn"><span role="tooltip" aria-label="segunda-feira, 10 de',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        '10 de julho de 2023 às 20:11 GMT+0" class="Tooltip__TooltipBase-sc-uha8qm-0 hsZHZO tooltipped-nw"><span style="white-space:nowrap">2 minutos',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'minutos atrás</span></span></span></div></article><div class="Box-sc-g0xbh4-0 flnDzZ"><span class="Text-sc-17v1xeu-0 jSXVr">8<!-- -->.</span></div><article',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'class="Box-sc-g0xbh4-0 fXxQUH"><div class="Box-sc-g0xbh4-0 cMZbkX"><a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 bDEVqy"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bDEVqy" href="/Ytu/o-famoso-algoritmo-2-um-aranhaverso-de-conexoesse-aprofundando-um-pouco">O famoso algoritmo 2: UM ARANHAVERSO DE CONEXÕES(se aprofundando um',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'aprofundando um pouco!)</a></div><div class="Box-sc-g0xbh4-0 blduoN"><span class="Text-sc-17v1xeu-0 bLDAWn">1 tabcoin</span> · <span class="Text-sc-17v1xeu-0 bLDAWn">0',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bLDAWn">0 comentário</span> · <a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 gVcuCx" href="/Ytu">Ytu</a> · <span class="Text-sc-17v1xeu-0 bLDAWn"><span',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bLDAWn"><span role="tooltip" aria-label="segunda-feira, 10 de julho de 2023 às 18:50 GMT+0" class="Tooltip__TooltipBase-sc-uha8qm-0 hsZHZO tooltipped-nw"><span',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'style="white-space:nowrap">1 hora atrás</span></span></span></div></article><div class="Box-sc-g0xbh4-0 flnDzZ"><span class="Text-sc-17v1xeu-0 jSXVr">9<!--',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'jSXVr">9<!-- -->.</span></div><article class="Box-sc-g0xbh4-0 fXxQUH"><div class="Box-sc-g0xbh4-0 cMZbkX"><a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 bDEVqy"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bDEVqy" href="/cypherpotato/zbundler-empacote-html-css-scss-a-partir-de-qualquer-projeto">zbundler - empacote HTML/CSS/SCSS a partir de qualquer projeto</a></div><div',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'class="Box-sc-g0xbh4-0 blduoN"><span class="Text-sc-17v1xeu-0 bLDAWn">5 tabcoins</span> · <span class="Text-sc-17v1xeu-0 bLDAWn">0 comentário</span> · <a sx="[object Object]"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'Object]" class="Link__StyledLink-sc-14289xe-0 gVcuCx" href="/cypherpotato">cypherpotato</a> · <span class="Text-sc-17v1xeu-0 bLDAWn"><span role="tooltip" aria-label="domingo,',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        '9 de julho de 2023 às 16:00 GMT+0" class="Tooltip__TooltipBase-sc-uha8qm-0 hsZHZO tooltipped-nw"><span style="white-space:nowrap">1 dia',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'dia atrás</span></span></span></div></article><div class="Box-sc-g0xbh4-0 flnDzZ"><span class="Text-sc-17v1xeu-0 jSXVr">10<!-- -->.</span></div><article',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'class="Box-sc-g0xbh4-0 fXxQUH"><div class="Box-sc-g0xbh4-0 cMZbkX"><a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 bDEVqy"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bDEVqy" href="/walacysilva/estude-como-um-jovem-milionario-europeu-uma-explicacao-cientifica-psicologica-para-a-sua-dificuldade-em-programacao">Estude como um Jovem',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'como um Jovem Milionario Europeu!: Uma explicação ciêntifica/psicologica para a sua dificuldade em programação.</a></div><div class="Box-sc-g0xbh4-0 blduoN"><span',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'blduoN"><span class="Text-sc-17v1xeu-0 bLDAWn">16 tabcoins</span> · <span class="Text-sc-17v1xeu-0 bLDAWn">8 comentários</span> · <a sx="[object Object]"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'Object]" class="Link__StyledLink-sc-14289xe-0 gVcuCx" href="/walacysilva">walacysilva</a> · <span class="Text-sc-17v1xeu-0 bLDAWn"><span role="tooltip" aria-label="sábado, 8',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        '8 de julho de 2023 às 18:02 GMT+0" class="Tooltip__TooltipBase-sc-uha8qm-0 hsZHZO tooltipped-nw"><span style="white-space:nowrap">2 dias',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'dias atrás</span></span></span></div></article><div class="Box-sc-g0xbh4-0 flnDzZ"><span class="Text-sc-17v1xeu-0 jSXVr">11<!-- -->.</span></div><article',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'class="Box-sc-g0xbh4-0 fXxQUH"><div class="Box-sc-g0xbh4-0 cMZbkX"><a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 bDEVqy"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bDEVqy" href="/abraaoOliveiraDev/como-estudar-algoritmos-sem-esta-na-faculdade">Como estudar algoritmos sem esta na faculdade?</a></div><div class="Box-sc-g0xbh4-0',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'blduoN"><span class="Text-sc-17v1xeu-0 bLDAWn">4 tabcoins</span> · <span class="Text-sc-17v1xeu-0 bLDAWn">14 comentários</span> · <a sx="[object Object]"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'Object]" class="Link__StyledLink-sc-14289xe-0 gVcuCx" href="/abraaoOliveiraDev">abraaoOliveiraDev</a> · <span class="Text-sc-17v1xeu-0 bLDAWn"><span role="tooltip"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'role="tooltip" aria-label="sexta-feira, 7 de julho de 2023 às 21:41 GMT+0" class="Tooltip__TooltipBase-sc-uha8qm-0 hsZHZO tooltipped-nw"><span style="white-space:nowrap">3',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'dias atrás</span></span></span></div></article><div class="Box-sc-g0xbh4-0 flnDzZ"><span class="Text-sc-17v1xeu-0 jSXVr">12<!-- -->.</span></div><article',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'class="Box-sc-g0xbh4-0 fXxQUH"><div class="Box-sc-g0xbh4-0 cMZbkX"><a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 bDEVqy"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bDEVqy" href="/cypherpotato/biblioteca-css-js-do-estilo-do-windows-11-fluent-design">Biblioteca CSS/JS do estilo do Windows 11 - Fluent Design</a></div><div',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'class="Box-sc-g0xbh4-0 blduoN"><span class="Text-sc-17v1xeu-0 bLDAWn">3 tabcoins</span> · <span class="Text-sc-17v1xeu-0 bLDAWn">18 comentários</span> · <a sx="[object',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        '· <a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 gVcuCx" href="/cypherpotato">cypherpotato</a> · <span class="Text-sc-17v1xeu-0 bLDAWn"><span role="tooltip"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'role="tooltip" aria-label="sábado, 8 de julho de 2023 às 00:48 GMT+0" class="Tooltip__TooltipBase-sc-uha8qm-0 hsZHZO tooltipped-nw"><span style="white-space:nowrap">3 dias',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'dias atrás</span></span></span></div></article><div class="Box-sc-g0xbh4-0 flnDzZ"><span class="Text-sc-17v1xeu-0 jSXVr">13<!-- -->.</span></div><article',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'class="Box-sc-g0xbh4-0 fXxQUH"><div class="Box-sc-g0xbh4-0 cMZbkX"><a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 bDEVqy"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bDEVqy" href="/denerGarcia/codigo-se-funcionou-esta-certo">&lt; &gt; Código se funcionou está certo? &lt;/ &gt; Resolvido: Trocando imagens com radio e',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'imagens com radio e javascript</a></div><div class="Box-sc-g0xbh4-0 blduoN"><span class="Text-sc-17v1xeu-0 bLDAWn">3 tabcoins</span> · <span class="Text-sc-17v1xeu-0',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bLDAWn">15 comentários</span> · <a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 gVcuCx" href="/denerGarcia">denerGarcia</a> · <span class="Text-sc-17v1xeu-0',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bLDAWn"><span role="tooltip" aria-label="sábado, 8 de julho de 2023 às 01:01 GMT+0" class="Tooltip__TooltipBase-sc-uha8qm-0 hsZHZO tooltipped-nw"><span',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'style="white-space:nowrap">3 dias atrás</span></span></span></div></article><div class="Box-sc-g0xbh4-0 flnDzZ"><span class="Text-sc-17v1xeu-0 jSXVr">14<!--',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'jSXVr">14<!-- -->.</span></div><article class="Box-sc-g0xbh4-0 fXxQUH"><div class="Box-sc-g0xbh4-0 cMZbkX"><a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bDEVqy" href="/kio199/abre-mundos-um-projeto-promissor-de-mmorpg-com-inteligencia-artificial">Abre Mundos: Um projeto promissor de MMORPG com inteligência',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'com inteligência artificial</a></div><div class="Box-sc-g0xbh4-0 blduoN"><span class="Text-sc-17v1xeu-0 bLDAWn">2 tabcoins</span> · <span class="Text-sc-17v1xeu-0 bLDAWn">8',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bLDAWn">8 comentários</span> · <a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0 gVcuCx" href="/kio199">kio199</a> · <span class="Text-sc-17v1xeu-0 bLDAWn"><span',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bLDAWn"><span role="tooltip" aria-label="sábado, 8 de julho de 2023 às 22:29 GMT+0" class="Tooltip__TooltipBase-sc-uha8qm-0 hsZHZO tooltipped-nw"><span',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'style="white-space:nowrap">2 dias atrás</span></span></span></div></article><div class="Box-sc-g0xbh4-0 flnDzZ"><span class="Text-sc-17v1xeu-0 jSXVr">15<!--',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'jSXVr">15<!-- -->.</span></div><article class="Box-sc-g0xbh4-0 fXxQUH"><div class="Box-sc-g0xbh4-0 cMZbkX"><a sx="[object Object]" class="Link__StyledLink-sc-14289xe-0',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'bDEVqy" href="/Estagiario/a-grande-falha-do-tabnews-que-ninguem-esta-falando">A grande falha do Tabnews que ninguém está falando!</a></div><div class="Box-sc-g0xbh4-0',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'blduoN"><span class="Text-sc-17v1xeu-0 bLDAWn">14 tabcoins</span> · <span class="Text-sc-17v1xeu-0 bLDAWn">29 comentários</span> · <a sx="[object Object]"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'Object]" class="Link__StyledLink-sc-14289xe-0 gVcuCx" href="/Estagiario">Estagiario</a> · <span class="Text-sc-17v1xeu-0 bLDAWn"><span role="tooltip"',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    Document {
+      pageContent: 
+        'role="tooltip" aria-label="quarta-feira, 5 de julho de 2023 às 17:39 GMT+0" class="Tooltip__TooltipBase-sc-uha8qm-0 hsZHZO tooltipped-nw"><span style="white-space:nowrap">5',
+      metadata: { loc: { lines: { from: 1, to: 1 } } }
+    },
+    
+
+  ]
