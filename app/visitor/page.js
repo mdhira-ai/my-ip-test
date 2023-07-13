@@ -1,31 +1,37 @@
-export default function page(props) {
-    const ip = props.ip;
+'use client'
+
+import { useEffect, useState } from "react";
+
+
+export default function page() {
+
+    const [data, setdata] = useState(null)
+
+    useEffect(() => {
+
+        
+        async function getData() {
+            // The return value is *not* serialized
+            const res = await fetch('api/scrape/');
+            // You can return Date, Map, Set, etc.
+            return res.json();
+        }
+
+        getData().then((res) => {  
+            setdata(res)
+        }
+        );
+
+    },[])
+
+
+
     return (
       <div style={{ width: '100vw', height: '100vh', padding: 30 }}>
         <h1>
-          IP Address <span style={{ color: 'blue' }}>{ip}</span>
+          IP Address <span style={{ }}>{data?.body.message}</span>
         </h1>
       </div>
     );
   }
   
-  export async function getServerSideProps(context) {
-    let ip;
-  
-    const { req } = context;
-  
-    if (req.headers['x-forwarded-for']) {
-      ip = req.headers['x-forwarded-for'].split(',')[0];
-    } else if (req.headers['x-real-ip']) {
-      ip = req.connection.remoteAddress;
-    } else {
-      ip = req.connection.remoteAddress;
-    }
-  
-    console.log(ip);
-    return {
-      props: {
-        ip,
-      },
-    };
-  }
