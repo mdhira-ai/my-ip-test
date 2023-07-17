@@ -1,22 +1,23 @@
 import { NextResponse } from "next/server";
 import nodemailer from "nodemailer";
 
-let transporter = nodemailer.createTransport({
-  host: "smtp.zoho.com",
-  secure: true,
-  port: 465,
-  auth: {
-    user: "mdhabiborrahman@a2zzz.com",
-    pass: "82fQHM6iQzg0",
-  },
-  tls: {
-    // do not fail on invalid certs
-    rejectUnauthorized: false,
-  },
-});
 
-export async function GET() {
-  const info = await transporter.sendMail({
+export async function POST() {
+    let transporter = nodemailer.createTransport({
+      host: "smtp.zoho.com",
+      secure: true,
+      port: 465,
+      auth: {
+        user: "mdhabiborrahman@a2zzz.com",
+        pass: "82fQHM6iQzg0",
+      },
+      tls: {
+        // do not fail on invalid certs
+        rejectUnauthorized: false,
+      },
+    });
+
+  var info = await transporter.sendMail({
     from: '"A2ZZZ 🙋🏻‍♂️" <mdhabiborrahman@a2zzz.com>', // sender address
     to: "mdhera211@gmail.com", // list of receivers
     subject: "Hello ✔", // Subject line
