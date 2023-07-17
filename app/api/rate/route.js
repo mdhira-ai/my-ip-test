@@ -6,7 +6,6 @@ import puppeteer from "puppeteer";
 async function scrape() {
     const browser = await puppeteer.launch(
         {
-            headless: true,
             slowMo:10
         }
     );
