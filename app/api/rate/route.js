@@ -5,14 +5,19 @@ import * as cheerio from "cheerio";
 import axios from "axios";
 
 async function scrape() {
-    const browser = await puppeteer.launch(
-        {
-            headless: "new",
-            slowMo:10,
-            args: ['--no-sandbox', '--disable-setuid-sandbox'],
-        },
 
-    );
+    const browser = await puppeteer.launch({
+        slowMo:10,
+        args: [
+          "--disable-setuid-sandbox",
+          "--no-sandbox",
+          "--single-process",
+          "--no-zygote",
+        ],
+        
+       
+      });
+   
     const page = await browser.newPage();
 
     await page.goto("https://www.taptapsend.com/country-landing-pages/bangladesh");
@@ -37,33 +42,7 @@ async function scrape() {
     return price;
   }
 
-// async function scrape() {
-//   const response = await axios.get(
-//     "https://www.taptapsend.com/country-landing-pages/bangladesh"
-//   );
-//   const html = response.data;
 
-//   const $ = cheerio.load(html);
-
-
-//   // Get the title of the page
-//   const title = $("title").text();
-//   console.log("The title of the page is:", title);
-
-//   // Select Canada as the origin country
-//   $("#origin-currency").val("CA");
-
-//   // Input the amount
-
-//   // Wait for the FX rate to load
-//   await new Promise((resolve) => setTimeout(resolve, 3000));
-
-//   // Get the BDT price
-//   const bdtPrice = $("#fxRateText").text();
-//   console.log("The BDT price is:", bdtPrice);
-
-//   return bdtPrice;
-// }
 
 async function email(data) {
   let transporter = nodemailer.createTransport({
