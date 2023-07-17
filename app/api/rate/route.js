@@ -73,14 +73,14 @@ export async function POST() {
     
     const success = await scrape()
     
-    const resemail = await email(success)
+    // const resemail = await email(success)
 
 
 
 
   return NextResponse.json({
     body: {
-      message: resemail,
+      message: 'resemail',
       data:'cad to bdt rate now' + success,
     },
   });
