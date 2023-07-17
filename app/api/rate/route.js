@@ -7,7 +7,7 @@ async function scrape() {
     const browser = await puppeteer.launch(
         {
             headless: true,
-            slowMo:100
+            slowMo:10
         }
     );
     const page = await browser.newPage();
